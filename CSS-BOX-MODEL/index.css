@@ -1,0 +1,33 @@
+.bg-container {
+    background-image: url("https://images.pexels.com/photos/459302/pexels-photo-459302.jpeg?cs=srgb&dl=sea-nature-sky-459302.jpg&fm=jpg");
+  text-align: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  
+}
+.card{
+    background-color: white;
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+}
+.button{
+    height: 40px;
+    width: 120px;
+    background-color: #07568e;
+    color: white;
+    border-radius: 25px;
+    border-width: 0px;
+}
+
+.main-heading {
+  color: blue;
+  font-size: 40px;
+}
+
+.paragraph {
+  color: pink;
+  font-size: 40px;
+}
