@@ -1,0 +1,56 @@
+.diwali-top-section{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+.heading{
+    color: white;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+.diwali-bottom-section{
+    background-color: aqua;
+    padding: 20px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+   
+  
+    
+}
+.diwali-card{
+    text-align: center;
+    background-color: white;
+    width: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+.diwali-card-image{
+    height: 190px;
+    width: 190px;
+}
+.diwali-card-heading{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 4px;
+    padding: 6px;
+}
+.diwali-card-price{
+    font-weight: bold;
+    font-size: 23px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden; /* safety net */
+}
