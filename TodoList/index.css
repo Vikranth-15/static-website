@@ -1,0 +1,45 @@
+.card{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/todolistbg.png");
+ 
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    background-size: cover;
+}
+.heading{
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+.para{
+    color: white;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+.down{
+    text-decoration: underline;
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: center;
+    color: wheat;
+}
+.h1{
+    margin: 5px;
+    color: white;
+    font-size: 25px;
+    font-family: "Roboto";
+    text-align: left;
+}
+.para1{
+    color: white;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+.button{
+    color: white;
+    background-color: yellow;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    border-color: black;
+}
