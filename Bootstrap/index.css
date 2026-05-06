@@ -1,13 +1,14 @@
-.button {
-    height: 36px;
-    width: 140px;
+.button{
+    height: 40px;
+    width: 120px;
+    color: white;
+    border-radius: 0px;
     border-width: 0px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
-.button-green{
-    background-color: #388E3C;
+.btn1{
+    background-color: orange;
 }
-
-.button-orange{
-    background-color: #F57F17;
+.btn2{
+    background-color: pink;
 }
